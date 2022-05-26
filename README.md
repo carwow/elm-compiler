@@ -17,7 +17,7 @@ For multiple versions, previous versions, and uninstallation, see the instructio
 
 ## carwow's notes
 
-The node package to use in our own projects `@carwow/elm-compiler`
+The node package to use in our own projects `@carwow/elm`
 
 <br>
 
